@@ -1,0 +1,3 @@
+MainGrepText: contains the main grep flow. go over the file, find lines that matches the requests and print them. Use a GrepFuncArguments variable that holds the parsed phrase and args.
+ParseFuncArguments: parsing the grep arguments in a dedicated struct called GrepFuncArguments.
+ParsePharseToGrep: set the phrase in linked list using the PartialPhraseToGrep struct (holds the type of the phrase part, two matching strings, and next pointer)
