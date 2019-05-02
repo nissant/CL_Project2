@@ -1,5 +1,5 @@
 MAKEFLAGS += --no-print-directory
-#Variables for method of compilation and compilation flags
+# Variables for method of compilation and compilation flags
 CC = @gcc
 CFLAGS = -Wall -Werror -g
 
